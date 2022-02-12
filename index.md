@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+Project Summary – Adults with autism have limited opportunities to work and be independent. Blissfullseeds.org is one of the few organizations trying to find employment for autistic adults by creating products such as bath soap, bath bombs, etc. Blissfulseeds.org is a non-profit organization and needs help in the following areas: 1.https://www.blissfulseeds.org/ - does not have a section on volunteers and adults with autism to sign up. They also do not have a section for supporters who can pledge a monthly contribution to the organization. 2.The current landing page is not well organized, there are links broken or not functioning. The current owner has hired a 3rd party to maintain and develop the site, charging by a feature that presents a sustainability challenge. 3.SEO will help blissfulseeds to stand out and create awareness, there is also a request to add functionality to conduct sale campaigns to help and benefit adults with Autism.
 
-You can use the [editor on GitHub](https://github.com/jsri9108/supportadultswithautism.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Deliverables
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enhanced and structured website for www.bilsfullseeds.org for volunteers, adults with autism, and supporters.
+SEO across search engines, enabling the organization to be more discoverable and reachable.
+Functionality to build marketing and sales campaign on the site (limited to owner) to generate demand and sales.
+Users of the Website There are 5 sets of users for the site:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsri9108/supportadultswithautism.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Owner – Administrator for the website
+Volunteers – For registering their availability and time
+Autistic Adults – Adults with autism who will be working at Blisfullseeds to produce products
+Supporters – Supporters of this cause, who may pledge an amount on a monthly basis.
+Buyers – People who would like to buy products made by participating adults from blissfulseeds.org.
