@@ -1,0 +1,8 @@
+baseURL = 'https://jsri9108.github.io/'
+languageCode = 'en-us'
+title = 'CS6150 Project'
+theme = "ananke"
+paginate = 2
+Copyright = "© Jeetesh Srivastva 2022"
+canonifyurls = true
+
