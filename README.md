@@ -4,7 +4,7 @@
 Jeetesh Srivastava
 
 ### Partner Organization
-– Adults with autism have limited opportunities to work and be independent. Blissfullseeds.org is one of the few organizations trying to find employment for autistic adults by creating products such as bath soap, bath bombs, etc
+Adults with autism have limited opportunities to work and be independent. Blissfullseeds.org is one of the few organizations trying to find employment for autistic adults by creating products such as bath soap, bath bombs, etc
 
 ### Partner organization challenges
 Blissfulseeds.org is a non-profit organization and needs help in the following areas:
