@@ -37,11 +37,11 @@ There are 5 sets of users for the site:
 
 
 ### Project Presentation
-![plot](Slide1.png)
-![plot](Slide2.png)
-![plot](Slide3.png)
-![plot](Slide4.png)
-![plot](Slide5.png)
-![plot](Slide6.png)
-![plot](Slide7.png)
 
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide1.png
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide2.png
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide3.png
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide4.png
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide5.png
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide6.png
+https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide7.png
