@@ -37,5 +37,14 @@ There are 5 sets of users for the site:
 
 
 ### Project Presentation
-
+<details>
+  <summary>The title of the image group</summary><details>
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide1.png" name="Slide1">
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide2.png" name="Slide2">
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide3.png" name="Slide3">
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide4.png" name="Slide4">
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide5.png" name="Slide5">
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide6.png" name="Slide6">
+  <img src="https://github.com/jsri9108/supportadultswithautism.github.io/blob/master/Slide7.png" name="Slide7">
+</details>
 
