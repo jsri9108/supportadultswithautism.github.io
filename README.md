@@ -37,5 +37,5 @@ There are 5 sets of users for the site:
 
 
 ### Project Presentation
-<iframe src="https://gtvault-my.sharepoint.com/personal/jsrivastva3_gatech_edu/_layouts/15/Doc.aspx?sourcedoc={e14174e6-d06f-4f32-b2b2-d56f4bc31116}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
 
